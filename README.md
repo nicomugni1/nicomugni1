@@ -22,6 +22,6 @@
 
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RenzoG10&theme=react&show_icons=true&include_all_commits=true&hide_rank=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicomugni1&theme=react&show_icons=true&include_all_commits=true&hide_rank=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoG10&theme=react&layout=compact" />
 </p>
