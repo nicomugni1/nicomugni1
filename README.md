@@ -7,39 +7,58 @@
 <br>
 
 - 🎓 Estudiante de **Ingeniería en Sistemas** y **Tecnicatura en Programación** (UTN - Córdoba).
-- 🚀 Especializado en el desarrollo de productos digitales, desde la arquitectura del código hasta la estrategia comercial.
-- 💻 Desarrollador de una **Plataforma E-commerce (SaaS B2B)** integral (App Cliente + Panel Admin) lista para producción.
-- 🛠️ Mi stack principal incluye **Dart (Flutter), Python, SQL y Firebase**.
-- 🌱 Actualmente profundizando en arquitecturas escalables, diseño UI/UX orientado a conversión y patrones de diseño.
+- 🤖 Especialista en la creación de **ecosistemas de IA Corporativa (Enterprise RAG)** y arquitecturas backend escalables.
+- 🚀 Mi enfoque combina la solidez técnica con una visión estratégica de producto, diseñando soluciones optimizadas para la rentabilidad y la escalabilidad.
+- 🛠️ Mi stack principal incluye **Python (FastAPI, LiteLLM), PostgreSQL (pgvector), Redis y Dart (Flutter)**.
+- 🌱 Actualmente enfocado en arquitecturas modulares, orquestación de LLMs (Multi-Agent Swarms), cachés semánticas y control financiero de APIs (FinOps).
 - 📫 Podés contactarme en: [nicomugni8@gmail.com](mailto:nicomugni8@gmail.com)
 
 ---
 
 ### 🚀 &nbsp;Proyectos Destacados
 
-**🛒 Plataforma E-commerce Multiplataforma (SaaS B2B)** *Sistema completo de delivery diseñado para la digitalización de comercios locales.*
-- **Frontend (App Clientes):** Desarrollo en Flutter con diseño UI/UX fluido, animaciones, gestión de carrito y lógica de upselling.
-- **Backend & Admin:** Panel de administración en tiempo real. Gestión de inventario, procesamiento de órdenes, estados de preparación y envío de Notificaciones Push (FCM).
-- **Lógica Comercial:** Algoritmos automáticos de pricing dinámico (promos 2x1, descuentos en 2da unidad) y sistema de cupones limitados.
-- **Integraciones:** API de Mercado Pago, Deep Links y redireccionamiento inteligente a WhatsApp.
-- **Stack:** `Flutter` `Dart` `Firebase (Firestore, Auth, Cloud Messaging)` `Provider`
+**🧠 Agente de IA Corporativo (Ecosistema RAG Enterprise)**
+*Arquitectura backend de alto rendimiento para IA corporativa con control de costos y alta seguridad departamental.*
+- **Orquestación:** Enrutamiento inteligente ("Juez de Consultas") entre modelos Llama-3.1 y 3.3 mediante LiteLLM, optimizando latencia.
+- **Optimización & Caché:** Implementación de Caché Semántica Blindada en Redis con hashing MD5 y búsqueda vectorial para reducir el consumo de tokens.
+- **FinOps & Auditoría:** Motor de control financiero con precisión decimal que bloquea operaciones ante excesos de presupuesto por departamento.
+- **Stack:** `Python` `FastAPI` `pgvector` `Redis` `LiteLLM` `LangChain`
+
+**🛒 Plataforma E-commerce Multiplataforma (SaaS B2B)**
+*Sistema integral de delivery diseñado para la digitalización y trazabilidad financiera de comercios locales.*
+- **Frontend (App Clientes):** Desarrollo en Flutter con Clean Architecture, Provider y diseño UI/UX orientado a conversión.
+- **Backend & Admin:** Panel de administración en tiempo real, gestión de inventario y Notificaciones Push (FCM).
+- **Lógica Comercial:** Algoritmos de pricing dinámico e integración exclusiva con la API de Mercado Pago.
+- **Stack:** `Flutter` `Dart` `Firebase (Firestore, Auth, Cloud Messaging)`
+
+**📊 Sistema de Gestión ERP Local**
+*Aplicación de escritorio modular para el control de operaciones comerciales.*
+- **Desarrollo:** Control de stock, auditoría de proveedores y reportes financieros transaccionales en tiempo real.
+- **Stack:** `Python` `PySide6` `PostgreSQL`
 
 ---
 
 ### 🛠️ &nbsp;Tech Stack
 
-**Desarrollo Mobile & Backend:**
+**IA, Backend & APIs:**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+**Mobile & Frontend:**
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
-**Bases de Datos & Backend as a Service:**
+**Bases de Datos, Caché & Infraestructura:**
 <p align="left">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
 
 **Herramientas & Control de Versiones:**
