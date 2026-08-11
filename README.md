@@ -17,13 +17,6 @@
 
 ### 🚀 &nbsp;Proyectos Destacados
 
-**🧠 Agente de IA Corporativo (Ecosistema RAG Enterprise)**
-*Arquitectura backend de alto rendimiento para IA corporativa con control de costos y alta seguridad departamental.*
-- **Orquestación:** Enrutamiento inteligente ("Juez de Consultas") entre modelos Llama-3.1 y 3.3 mediante LiteLLM, optimizando latencia.
-- **Optimización & Caché:** Implementación de Caché Semántica Blindada en Redis con hashing MD5 y búsqueda vectorial para reducir el consumo de tokens.
-- **FinOps & Auditoría:** Motor de control financiero con precisión decimal que bloquea operaciones ante excesos de presupuesto por departamento.
-- **Stack:** `Python` `FastAPI` `pgvector` `Redis` `LiteLLM` `LangChain`
-
 **🛒 Plataforma E-commerce Multiplataforma (SaaS B2B)**
 *Sistema integral de delivery diseñado para la digitalización y trazabilidad financiera de comercios locales.*
 - **Frontend (App Clientes):** Desarrollo en Flutter con Clean Architecture, Provider y diseño UI/UX orientado a conversión.
