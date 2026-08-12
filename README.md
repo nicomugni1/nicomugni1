@@ -6,7 +6,7 @@
 
 <br>
 
-- 🎓 Estudiante de **Ingeniería en Sistemas** y **Tecnicatura en Programación** (UTN - Córdoba).
+- 🎓 Estudiante de **Ingeniería en Sistemas** (UTN - Córdoba).
 - 🤖 Especialista en la creación de **ecosistemas de IA Corporativa (Enterprise RAG)** y arquitecturas backend escalables.
 - 🚀 Mi enfoque combina la solidez técnica con una visión estratégica de producto, diseñando soluciones optimizadas para la rentabilidad y la escalabilidad.
 - 🛠️ Mi stack principal incluye **Python (FastAPI, LiteLLM), PostgreSQL (pgvector), Redis y Dart (Flutter)**.
