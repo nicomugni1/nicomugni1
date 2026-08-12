@@ -7,15 +7,21 @@
 <br>
 
 - 🎓 Estudiante de **Ingeniería en Sistemas** (UTN - Córdoba).
-- 🤖 Especialista en la creación de **ecosistemas de IA Corporativa (Enterprise RAG)** y arquitecturas backend escalables.
-- 🚀 Mi enfoque combina la solidez técnica con una visión estratégica de producto, diseñando soluciones optimizadas para la rentabilidad y la escalabilidad.
+- 🤖 Especialista en la creación de **sistemas RAG para documentación técnica compleja** y arquitecturas backend escalables.
+- 🚀 Mi enfoque combina la solidez técnica con la optimización de recursos, diseñando APIs rápidas y bases de datos eficientes.
 - 🛠️ Mi stack principal incluye **Python (FastAPI, LiteLLM), PostgreSQL (pgvector), Redis y Dart (Flutter)**.
-- 🌱 Actualmente enfocado en arquitecturas modulares, orquestación de LLMs (Multi-Agent Swarms), cachés semánticas y control financiero de APIs (FinOps).
+- 🌱 Actualmente enfocado en arquitecturas modulares, procesamiento de grandes volúmenes de datos e integración ágil de LLMs.
 - 📫 Podés contactarme en: [nicomugni8@gmail.com](mailto:nicomugni8@gmail.com)
 
 ---
 
 ### 🚀 &nbsp;Proyectos Destacados
+
+**🏁 Asistente RAG de Reglamentaciones y Telemetría**
+*Backend y pipeline de IA diseñado para indexar y consultar reglamentos deportivos complejos y datos técnicos.*
+- **IA & Búsqueda:** Pipeline RAG utilizando `pgvector` para búsqueda semántica sobre extensos manuales en PDF.
+- **Infraestructura:** Caché de alta velocidad con `Redis` para optimizar consultas frecuentes y orquestación con `Docker`.
+- **Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `LiteLLM` `Docker`
 
 **🛒 Plataforma E-commerce Multiplataforma (SaaS B2B)**
 *Sistema integral de delivery diseñado para la digitalización y trazabilidad financiera de comercios locales.*
